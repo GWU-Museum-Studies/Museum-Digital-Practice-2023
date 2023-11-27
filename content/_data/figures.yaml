@@ -24,3 +24,24 @@ figure_list:
     src: figures/fig-bolesta-05.jpg
     alt: "Photograph of the ruins of the Roman Forum at dusk. The facade of a temple and brightly painted walls are projected on the face of the walls and the broken tile floor."
     caption: "Figure 5: Still image of a part of the projection mapping display at the Roman Forum. Photograph by Ank Kumar, May 23, 2015. Used under a Creative Commons license."
+  - id: "fig-cubbage-01"
+    src: figures/fig-cubbage-01.png
+    caption: "Figure 2: A screenshot of the Defunctland 20,000 Leagues Under The Sea VR recreation tour video."
+    alt: "A screenshot from from the Defunctland Youtube channel showing a still from the VR walk through video of the recreated 20,000 Leagues Under the Sea attraction. The still contains the exterior of the ride's queue including the attraction's name on a large sign over the line queuing area."
+  - id: "fig-cubbage-02"
+    src: figures/fig-cubbage-02.png
+    caption: "Figure 2: A screenshot of *Between Sea and Land*, a virtual exhibition of art curated by art historian Jo Baring created in collaboration between the Malta International Contemporary Art Space and Vortic."
+    alt: "A screenshot of *Between Sea and Land*, a virtual exhibition of art curated by art historian Jo Baring created in collaboration between the Malta International Contemporary Art Space and Vortic. The screenshot shows some of the navigation interface in the top left corner. The screenshot is of the VR Exhibit space, which includes five works of art presented on white walls in a large open room with a window facing outside to a palm tree and the sky. The room has a natural, earth tone color scheme and has brutalist architecture elements contrasting with the artworks."
+  - id: "fig-cubbage-03"
+    src: figures/fig-cubbage-03.png
+    caption: "Figure 3: A video preview of the *No Spectators: The Art of Burning Man* VR exhibit, created by the Smithsonian American Art Museum."
+    media_id: HWEGciOWKZ0
+    media_type: youtube
+  - id: "fig-cubbage-04"
+    poster: figures/fig-cubbage-04.png
+    caption: "Figure 4: A screenshot of the Peale's Second Life launch page and location description."
+    alt: "A screenshot of the Peale's Second Life launch page and location description. On the left there is an in-game image of the exterior of the Peale Center for Baltimore History and Architecture. On the right there is text describing the location."
+  - id: "fig-cubbage-05"
+    src: figures/fig-cubbage-05.png
+    caption: "Figure 5: The National Museum of Natural History's virtual exhibits allow us to look at how we exhibited things in the past and provide excellent records for comparison to present exhibit design philosophies."
+    alt: "A screenshot from the National Museum of Natural History's Fossil Hall, which closed to the public in 2013 for renovation. This screenshot depics a view from the virtual tour. The image contains a view of the center room of the exhibit, with two arrows on the ground that can be clicked to navigate the exhibit. To the left there is the entrance to a section labeled Life in the Ancient Seas which focuses on prehistoric aquatic life. In the center of the image there is a tower depicting a timeline of different eras of prehistory. The right side of the image includes a sign that says Welcome to the Hall of Paleontology and two large dinosaur fossils- a Tyrannosaurus rex and a Diplodocus."
