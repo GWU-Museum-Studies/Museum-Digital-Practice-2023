@@ -13,20 +13,20 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: The State of Museum Digital Practice | 2023
+subtitle: A collection of graduate essays
 reading_line:
 short_title:
 
 description:
-  one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  one_line: The *State of Museum Digital Practice | 2023* is written, edited and published by students in *Museums and Technology* at George Washington University.
+  full:  
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2023-12-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -34,33 +34,177 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: GWU Museum Studies
+    location: Washington, D.C.
+    url: https://GWU-Museum-Studies.github.io/
+    logo: 
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Museums and Technology | George Washington University
 
 contributor:
-  - id: jkeller
+  - id: ebolesta
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Emily
+    last_name: Bolesta
+    title:
+    affiliation: George Washington University
+    bio: "Emily Bolesta is a graduate student at George Washington University, pursuing her Master's Degree in Museum Studies with a focus in Collections Management. She earned her BA in Historic Preservation from the University of Mary Washington, and has utilized the skills she learned there to be a valuable member of any team for archaeological analysis, architectural documentation, archival methods, and museum practices. After six years as an archaeologist, Emily is now working to bring museum preventative conservation practices to archaeological contexts. [LinkedIn](www.linkedin.com/in/emily-bolesta-9a20b512a)"
+    url:
+    pic: contributors/ebolesta.jpg
+  - id: ebrown
+    type: primary
+    first_name: Emma
+    last_name: Brown
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: gcubbage
+    type: primary
+    first_name: Grey
+    last_name: Cubbage
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: lguarnieri
+    type: primary
+    first_name: Lindsay
+    last_name: Guarnieri
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: klauer
+    type: primary
+    first_name: Kathleen 
+    last_name: Lauer
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: xliu
+    type: primary
+    first_name: Xuexin
+    last_name: Liu
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: gmarra
+    type: primary
+    first_name: Grace
+    last_name: Marra
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: emeverden
+    type: primary
+    first_name: Emma
+    last_name: Meverden
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: mcapo
+    type: primary
+    first_name: Meg
+    last_name: Capo
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: dgolanmiller
+    type: primary
+    first_name: Dana
+    last_name: Golan Miller
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: nbroude
+    type: primary
+    first_name: Noah
+    last_name: Broude
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: jloy
+    type: primary
+    first_name: Jay
+    last_name: Loy
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: nmacurdy
+    type: primary
+    first_name: Natalie
+    last_name: Macurdy
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: shuber
+    type: primary
+    first_name: Samuel
+    last_name: Huber
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: nnappi
+    type: primary
+    first_name: Nichole
+    last_name: Nappi
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: amehnert
+    type: primary
+    first_name: Alyssa
+    last_name: Mehnert
+    title:
+    affiliation: George Washington University
+    bio: 
+    url:
+    pic: contributors/
+  - id: sanderson
+    type: primary
+    first_name: Suse
+    last_name: Anderson
+    title: Program Head + Associate Professor, Museum Studies
+    affiliation: George Washington University
+    bio: "Suse Anderson (she/her) is Program Head and Associate Professor, Museum Studies at The George Washington University, and host of [Museopunks](http://museopunks.org) – the podcast for the progressive museum. For more than a decade, her work focused on the intersection of museums and technology, culminating in the 2020 publication of [The Digital Future of Museums: Conversations and Provocations](https://www.routledge.com/The-Digital-Future-of-Museums-Conversations-and-Provocations/Winesmith-Anderson/p/book/9781138589544), with Dr. Keir Winesmith. More recently, Anderson has become concerned with investigating contemporary ethical dilemmas confronting the field. She holds a PhD from The University of Newcastle, Australia. Since moving to Baltimore in 2014, Anderson has fallen in love with the city she now calls home. You should visit her there."
+    url:
+    pic: contributors/suse-anderson.jpg    
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: 
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -101,11 +245,8 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: museums, technology, museum studies, digital practice, emerging technology
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -121,4 +262,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: aicover.png

@@ -1,21 +1,21 @@
 ---
-title: Introduction
-subtitle: A Tale of Two Photographers
+title: Teaching Museum Digital Practice in 2023
+subtitle: 
 layout: splash
 order: 10
-image: figures/lange-house.jpg
+image: 
 ---
 
-Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
+The [*Master of Arts in Museum Studies*](https://corcoran.gwu.edu/museum-studies) program at George Washington University responds to the evolving museum profession by combining hands-on training with future-focused theoretical engagement. Students who enrol in the program gain foundational knowledge about the state of museum work today, practical skills and the ability to critically engage with developments in the field.
 
-{% figure 'lange' 'is-pulled-right' %}
+In *Museums and Technology*, we take on an ambitious project to realize these goals. Across the 14-week semester, the class creates a publication about the state of digital practice in museums in 2023. Each student is responsible for creating a  publishable piece that explores a specific research area related to the overall topic of museums and  technology. Submissions can synthesize current readings and practice around a broad area, or dive deeper into a single technology or case study related to the theme of digital practice and its impact on the museum.
 
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration. During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](/catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
+This is the fourth iteration of this publication project. The [first](https://ad-hoc-museum-collective.github.io/GWU-museum-digital-practice-2019/), produced in 2019, was designed by Dr Suse Anderson, and informed by her experience co-editing several digitally-informed publishing projects, including [*CODE|WORDS Technology and Theory in the Museum*](https://medium.com/code-words-technology-and-theory-in-the-museum), which brought together leading museum thinkers and practitioners to explore the impact of digital technology on the nature of museums, and [*Humanizing the Digital: Unproceedings from the 2018 MCN Confererence*](https://ad-hoc-museum-collective.github.io/humanizing-the-digital/), which responded to the [*MCN annual conference*](http://mcn.edu). Each of these museum tech projects marked a specific moment in time within the sector. Likewise, it is intended that each annual publication in the *The State of Museum Digital Practice* series will stand as a marker of each cohort of students and their concerns and interests in a specific timeframe. 
 
-{% figure 'evans' 'is-pulled-left' %}
+The first two versions of this publication (produced in [2019](https://ad-hoc-museum-collective.github.io/GWU-museum-digital-practice-2019/) and [2021](https://ad-hoc-museum-collective.github.io/Museum-Digital-Practice-2021/)) buttressed the global coronavirus pandemic, with its huge disruptions to museum practice, education and daily life. The [2022 publication](https://gwu-museum-studies.github.io/Museum-Digital-Practice-2022/) came from a world still in the earliest grapplings with the implications of the pandemic, but already showing signs of concern with different kinds of issues, and new possible futures for museums in their relationships with technology. 
 
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm aecurity Administration (FSA), documenting workers and architecture in the Southeastern states. In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
+In 2023, we find students starting to consider new kinds of emerging technologies... Artificial Intelligence, or AI, has started to appear as a player in the imaginations of several students as they think about the present and future of digital technologies in museums, including considering the role of AI in provenance research or meditating on the ethical considerations of AI-enabled historic storytelling. Others imagine a possible future where volumetric holograms play a role in historic landscape reconstruction or where 3D digital exhibitions fill a kind of nostalgic craving in those looking for a lost past. As a group, this cohort is ambitious, creative and speculative, asking many of the same kinds of questions of technology as prior generations, but set against within a changing techscape. 
 
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
+Each student is responsible for defining and researching their topic and writing their paper. Suse Anderson, Associate Professor in Museum Studies is responsible for compiling the final book. Because the project is produced quickly, the editorial hand is only lightly felt, so there may be inconsistencies in style, formatting and approach.
 
-{% figure "audio-1" %}
+We hope you enjoy this publication, produced by the fall class of 2023.
