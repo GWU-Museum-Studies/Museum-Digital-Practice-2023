@@ -79,7 +79,7 @@ contributor:
     last_name: Guarnieri
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Lindsay Guarnieri is a Museum Studies graduate student at George Washington University concentrating in Exhibition and Visitor Experience. She holds a B.A in Film Studies and Cultural Anthropology from Mount Holyoke College. She is interested in the curation of digital and virtual exhibitions for social history museums and cultural institutions."
     url:
     pic: contributors/
   - id: klauer
@@ -115,9 +115,9 @@ contributor:
     last_name: Meverden
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Emma Meverden (she/her) is a Museum Studies graduate student at The George Washington University. She earned her BA in History and a minor in French Studies from The University of Maryland, College Park. While at UMD, Emma interned at the National Archives and Records Administration II, where she cataloged research files and created digital finding aids. After earning her MA, she aspires to do curatorial work, exhibit planning, or museum programming. An avid learner, she welcomes any opportunity to develop her career in the museum sector. [Connect on LinkedIn](http://www.linkedin.com/in/emmameverden) or via email at [emma.meverden@gwu.edu](mailto:emma.meverden@gwu.edu)."
     url:
-    pic: contributors/
+    pic: contributors/emeverden.jpg
   - id: mcapo
     type: primary
     first_name: Meg
@@ -133,7 +133,7 @@ contributor:
     last_name: Golan Miller
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Dana Golan Miller holds a Master's degree in History of Art from *Tel Aviv University* and is a *Fulbright* fellow at *GW University* (Museum Education). With over a decade of experience, she has served as the manager and curator of a contemporary private art collection in Tel Aviv. Dana has led numerous projects to enhance art accessibility, actively engaging in non-formal art education, including facilitating gallery and museum tours, as well as delivering lectures to diverse audiences. [Dana Golan Miller | LinkedIn](https://www.linkedin.com/in/dana-golan-miller-215b4919/)"
     url:
     pic: contributors/
   - id: nbroude
@@ -156,20 +156,20 @@ contributor:
     pic: contributors/
   - id: nmacurdy
     type: primary
-    first_name: Natalie
+    first_name: Natalie R.
     last_name: Macurdy
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Natalie Macurdy is a second-year Museum Studies M.A. student at George Washington University with a Collections Management concentration. She is a born and raised Texan, graduating from Texas State University in 2022 with a B.A. in Anthropology and minors in Spanish and History. She is passionate about the preservation of material culture to capture the stories of our past, present, and future. In her free time, Natalie enjoys drawing, playing guitar, and visiting museums of course! [Connect with Natalie on LinkedIn.]( https://www.linkedin.com/in/nmacurdy/)"
     url:
-    pic: contributors/
+    pic: contributors/nmacurdy.jpg
   - id: shuber
     type: primary
     first_name: Samuel
     last_name: Huber
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Sam Huber (he/him) is a museum studies graduate student at George Washington University with a concentration in Collections. He graduated from the University of Florida with a B.A. in International Studies. He is interested in how digital objects in what challenges arise in preserving and displaying digital objects in a museum’s collection. You can contact him via email at samhuber83@gmail.com"
     url:
     pic: contributors/
   - id: nnappi
