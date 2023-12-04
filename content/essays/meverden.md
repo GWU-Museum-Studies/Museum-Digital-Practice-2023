@@ -2,7 +2,7 @@
 title: New Age Interactions
 subtitle: The Ethics of AI-Generated Historical Figures in Museum Exhibitions
 layout: essay
-order: 44
+order: 32
 contributor:
   - id: emeverden
 
@@ -87,6 +87,6 @@ According to a *Reuters* report in August 2023, AI-generated art cannot be copyr
 
 AI is not going anywhere. It is not only beginning to hold influence in museums but the greater workforce and our legal landscape. Earlier this month in November of 2023, the SAG-AFTRA Union and the Alliance of Motion Picture and Television Producers (AMPTP) reached an agreement that studios must compensate and receive consent from the actor to allow generative AI to replicate their likeness ({% cite 'Klar 2023' %}). This case will likely help reinforce the precedent that consent is needed to generate AI based on a living person; however, the legality of using an AI replica of a deceased person is not always quite as clear. 
 
-AI is being explored as a tool for crafting an engaging visitor experience. However, there are ethical considerations that should be made when experimenting with AI. As code and algorithms are made by humans, they come with complexities that require human literacy and understanding. Technology can surprise machines and humans alike. As stated by museum experts Ariana French and Elena Villaespesa, the sector should establish clear expectations for how AI should be used in their museums and allocate their resources accordingly ({% cite 'French 2019' %}). 
+AI is being explored as a tool for crafting an engaging visitor experience. However, there are ethical considerations that should be made when experimenting with AI. As code and algorithms are made by humans, they come with complexities that require human literacy and understanding. Technology can surprise machines and humans alike. As stated by museum experts Ariana French and Elena Villaespesa, the sector should establish clear expectations for how AI should be used in their museums and allocate their resources accordingly ({% cite 'French and Villaespesa 2019' %}). 
 
 As the USHMM and the Dalí Museum illustrate, museums can use AI effectively if they can strategically tailor their programming to a specific language that holds the integrity of the history they are representing. In utilizing a cautious approach and scheduling frequent training sessions by staff and third-party vendors, AI can be used as a useful educational tool within the museum sector. However, with any new invention, it is essential the museum uses it often and with great review. When used with ethical consideration, AI can be a promising feature for new exhibitions. Museums should continue to use generative AI with great caution. 

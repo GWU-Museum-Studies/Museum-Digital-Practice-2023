@@ -2,7 +2,7 @@
 title: Video Games as Interactives in Museums
 subtitle: 
 layout: essay
-order: 37
+order: 36
 contributor:
   - id: shuber
 

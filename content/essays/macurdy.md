@@ -2,7 +2,7 @@
 title: The Advent of QR Codes in Museum Collections (Finally?)
 subtitle: 
 layout: essay
-order: 41
+order: 33
 contributor:
   - id: nmacurdy
 

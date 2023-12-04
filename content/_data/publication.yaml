@@ -54,7 +54,7 @@ contributor:
     affiliation: George Washington University
     bio: "Emily Bolesta is a graduate student at George Washington University, pursuing her Master's Degree in Museum Studies with a focus in Collections Management. She earned her BA in Historic Preservation from the University of Mary Washington, and has utilized the skills she learned there to be a valuable member of any team for archaeological analysis, architectural documentation, archival methods, and museum practices. After six years as an archaeologist, Emily is now working to bring museum preventative conservation practices to archaeological contexts. [LinkedIn](www.linkedin.com/in/emily-bolesta-9a20b512a)"
     url:
-    pic: contributors/ebolesta.jpg
+    image: contributors/ebolesta.jpg
   - id: ebrown
     type: primary
     first_name: Emma
@@ -63,7 +63,7 @@ contributor:
     affiliation: George Washington University
     bio: 
     url:
-    pic: contributors/
+    image: contributors/
   - id: gcubbage
     type: primary
     first_name: Grey
@@ -72,7 +72,7 @@ contributor:
     affiliation: George Washington University
     bio: "Self-described as having been raised by the museums of Washington D.C., [Grey Cubbage](https://www.linkedin.com/in/grey-cubbage-2059a2161/)  is enthusiastic about the history and evaluation of museum exhibits, especially in zoos, aquariums, and natural history collections. A professional naturalist and graduate student by day, by night they enjoy studying the phenomenon of fandom culture around themed entertainment like theme parks and museums and the relationships between outsider-experts and their archival work."
     url:
-    pic: contributors/gcubbage.jpg
+    image: contributors/gcubbage.jpg
   - id: lguarnieri
     type: primary
     first_name: Lindsay
@@ -81,16 +81,16 @@ contributor:
     affiliation: George Washington University
     bio: "Lindsay Guarnieri is a Museum Studies graduate student at George Washington University concentrating in Exhibition and Visitor Experience. She holds a B.A in Film Studies and Cultural Anthropology from Mount Holyoke College. She is interested in the curation of digital and virtual exhibitions for social history museums and cultural institutions."
     url:
-    pic: contributors/
+    image: contributors/lguarnieri.jpg
   - id: klauer
     type: primary
     first_name: Kathleen 
     last_name: Lauer
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Kathleen Lauer is a second-year Museum Studies graduate student with a concentration in Collections Management at George Washington University. She received her B.A. in Classics with a minor in Chemistry at the College of William and Mary in 2019. She has worked with collections at the Museum of the Shenandoah Valley, Colonial Williamsburg, and the Arlington Historical Museum. She currently works as a tour guide at the U.S. Capitol Visitors Center. She is passionate about increasing accessibility in museums and creating a more inclusive environment for all. Connect via email: klauer@gwu.edu or [Linkedin](https://www.linkedin.com/in/kathleen-lauer/)"
     url:
-    pic: contributors/
+    image: contributors/klauer.jpg
   - id: xliu
     type: primary
     first_name: Xuexin
@@ -99,16 +99,7 @@ contributor:
     affiliation: George Washington University
     bio: 
     url:
-    pic: contributors/
-  - id: gmarra
-    type: primary
-    first_name: Grace
-    last_name: Marra
-    title:
-    affiliation: George Washington University
-    bio: 
-    url:
-    pic: contributors/
+    image: contributors/
   - id: emeverden
     type: primary
     first_name: Emma
@@ -117,16 +108,16 @@ contributor:
     affiliation: George Washington University
     bio: "Emma Meverden (she/her) is a Museum Studies graduate student at The George Washington University. She earned her BA in History and a minor in French Studies from The University of Maryland, College Park. While at UMD, Emma interned at the National Archives and Records Administration II, where she cataloged research files and created digital finding aids. After earning her MA, she aspires to do curatorial work, exhibit planning, or museum programming. An avid learner, she welcomes any opportunity to develop her career in the museum sector. [Connect on LinkedIn](http://www.linkedin.com/in/emmameverden) or via email at [emma.meverden@gwu.edu](mailto:emma.meverden@gwu.edu)."
     url:
-    pic: contributors/emeverden.jpg
+    image: contributors/emeverden.jpg
   - id: mcapo
     type: primary
     first_name: Meg
     last_name: Capo
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Meg Capo is a current Masters student at George Washington University for Museum Education. She has a degree in Art History from Emory University and a background in early childhood arts education, having been an art teacher for elementary school aged children at a STEAM (Science, Technology, Engineering, Art, Math) program for many years. Passionate about interdisciplinary learning, she loves to combine art and science in a way that is interesting and fun."
     url:
-    pic: contributors/
+    image: contributors/mcapo.jpg
   - id: dgolanmiller
     type: primary
     first_name: Dana
@@ -135,16 +126,16 @@ contributor:
     affiliation: George Washington University
     bio: "Dana Golan Miller holds a Master's degree in History of Art from *Tel Aviv University* and is a *Fulbright* fellow at *GW University* (Museum Education). With over a decade of experience, she has served as the manager and curator of a contemporary private art collection in Tel Aviv. Dana has led numerous projects to enhance art accessibility, actively engaging in non-formal art education, including facilitating gallery and museum tours, as well as delivering lectures to diverse audiences. [Dana Golan Miller | LinkedIn](https://www.linkedin.com/in/dana-golan-miller-215b4919/)"
     url:
-    pic: contributors/
+    image: contributors/dgolanmiller.jpg
   - id: nbroude
     type: primary
     first_name: Noah
     last_name: Broude
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Noah Broude is a first year graduate student at George Washington University pursuing a degree in museum studies.  He received a B.A. in history and a B.A. in linguistics from the College of William and Mary, where he also received a certificate in public history.  In addition to his passion for museum studies, Noah also enjoys playing video games, which he hopes carried over well to this publication."
     url:
-    pic: contributors/
+    image: contributors/nbroude.jpg
   - id: jloy
     type: primary
     first_name: Jay
@@ -153,7 +144,7 @@ contributor:
     affiliation: George Washington University
     bio: 
     url:
-    pic: contributors/
+    image: contributors/
   - id: nmacurdy
     type: primary
     first_name: Natalie R.
@@ -162,7 +153,7 @@ contributor:
     affiliation: George Washington University
     bio: "Natalie Macurdy is a second-year Museum Studies M.A. student at George Washington University with a Collections Management concentration. She is a born and raised Texan, graduating from Texas State University in 2022 with a B.A. in Anthropology and minors in Spanish and History. She is passionate about the preservation of material culture to capture the stories of our past, present, and future. In her free time, Natalie enjoys drawing, playing guitar, and visiting museums of course! [Connect with Natalie on LinkedIn.]( https://www.linkedin.com/in/nmacurdy/)"
     url:
-    pic: contributors/nmacurdy.jpg
+    image: contributors/nmacurdy.jpg
   - id: shuber
     type: primary
     first_name: Samuel
@@ -171,25 +162,25 @@ contributor:
     affiliation: George Washington University
     bio: "Sam Huber (he/him) is a museum studies graduate student at George Washington University with a concentration in Collections. He graduated from the University of Florida with a B.A. in International Studies. He is interested in how digital objects in what challenges arise in preserving and displaying digital objects in a museum’s collection. You can contact him via email at samhuber83@gmail.com"
     url:
-    pic: contributors/
+    image: contributors/shuber.jpg
   - id: nnappi
     type: primary
     first_name: Nichole
     last_name: Nappi
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Nichole Nappi, a George Washington University Museum Studies graduate student, is an organized, driven soon-to-be tech savvy provenance researcher devoted to documenting and digitizing collections. Having already graduated with a Bachelor of Fine Art with a computer graphics concentration, Nichole is dedicating the next phase of her life to the museum field. When she’s not in Arlington, Virginia, Nichole enjoys being with her loving husband, Mark, and her son, Nicholas."
     url:
-    pic: contributors/
+    image: contributors/
   - id: amehnert
     type: primary
     first_name: Alyssa
     last_name: Mehnert
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Alyssa Mehnert is a graduate student at George Washington University, pursuing a masters in Museum Studies with a concentration in Collections Management. She graduated with a double major in Classics and Art History & Archaeology from Washington University in St. Louis. She is passionate about history and how it affects the present and hopes to continuing working in museums that connect the past to the present."
     url:
-    pic: contributors/
+    image: contributors/amehnert.jpg
   - id: sanderson
     type: primary
     first_name: Suse
@@ -198,7 +189,7 @@ contributor:
     affiliation: George Washington University
     bio: "Suse Anderson (she/her) is Program Head and Associate Professor, Museum Studies at The George Washington University, and host of [Museopunks](http://museopunks.org) – the podcast for the progressive museum. For more than a decade, her work focused on the intersection of museums and technology, culminating in the 2020 publication of [The Digital Future of Museums: Conversations and Provocations](https://www.routledge.com/The-Digital-Future-of-Museums-Conversations-and-Provocations/Winesmith-Anderson/p/book/9781138589544), with Dr. Keir Winesmith. More recently, Anderson has become concerned with investigating contemporary ethical dilemmas confronting the field. She holds a PhD from The University of Newcastle, Australia. Since moving to Baltimore in 2014, Anderson has fallen in love with the city she now calls home. You should visit her there."
     url:
-    pic: contributors/suse-anderson.jpg    
+    image: contributors/suse-anderson.jpg    
 
 # ------------------------------------------------------------------------------
 # Copright & License

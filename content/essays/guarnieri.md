@@ -1,8 +1,8 @@
 ---
-title: How to Create a Virtual Exhibition
+title: The Virtual-Only Museum
 subtitle: An Inside Look into Girl Museum
 layout: essay
-order: 36
+order: 39
 contributor:
   - id: lguarnieri
 

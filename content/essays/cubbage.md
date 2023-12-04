@@ -2,7 +2,7 @@
 title: Exhibit Spaces in VR
 subtitle: Audience Access and Archival Benefits
 layout: essay
-order: 34
+order: 31
 contributor:
   - id: gcubbage
 

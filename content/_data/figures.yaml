@@ -2,7 +2,7 @@ figure_list:
 
   - id: "fig-bolesta-01"
     poster: figures/fig-bolesta-01.jpg
-    caption: "Figure 1: A video displaying the heated plasma technology pioneered by Aerial Burton. Promotional material by Digitized Information Inc."
+    caption: "Figure 1: A video displaying the heated plasma technology pioneered by Aerial Burton. Promotional material by Digitized Information Inc via the ikinamo YouTube Channel."
     alt: "A news report by Digitized Information Inc, exhibiting the heated plasma solution Japanese firm Aerial Burton has proposed for the creation of volumetric holograms. The video shows a small group of about 25 people standing on a residential street in Japan, watching as pinpricks of light levitate in the air in front of them. Upon closer inspection the lights form the outlines of shapes, including a butterfly and an arrow pointing down towards the ground."
     media_id: GNoOiXkXmYQ?si=Uj2_zcBeYGpncj6C
     media_type: youtube
@@ -12,7 +12,7 @@ figure_list:
     caption: "Figure 2: Display of the Pepper's Ghost Effect. The unseen actor below the stage is brightly lit, with their reflection caught on the glass between the stage and the audience, making it appear as though a translucent figure is onstage. Public domain image via Wikimedia Commons."
   - id: "fig-bolesta-03"
     poster: figures/fig-bolesta-03.jpg
-    caption: "Figure 3: A video of a natural history exhibit on the organisms which live in dead trees at the Middle Elbe Biosphere Reserve in Oranienbaum-Wörlitz, Germany."
+    caption: "Figure 3: A video of a natural history exhibit on the organisms which live in dead trees at the Middle Elbe Biosphere Reserve in Oranienbaum-Wörlitz, Germany. Promotional video by HOLOCO, “3D Hologram for Museum” via their YouTube Channel."
     alt: "A promotional video by HOLOCO showing a natural history exhibit at the Middle Elbe Biosphere Reserve in Oranienbaum-Wörlitz, Germany. The exhibit case has a dead log inside of it, with a transparent screen at an angle in front of it. Utilizing a Pepper's Ghost Effect, the transparent screen catches the reflection of a television screen below it, making it appear to the viewer that the birds on the screen are appearing on the log in the exhibit case. The display cycles through the organisms which use the log as a home throughout the course of a day and night, including birds, bugs, and fungi."
     media_id: CQUOMlZuwHo?si=DB5k9zev5WlLH68E
     media_type: youtube
@@ -135,3 +135,22 @@ figure_list:
     src: figures/fig-golanmiller-05.jpg
     caption: "The Press page on the Collection website"
     alt: 
+  - id: fig-mehnert-01
+    poster: figures/fig-mehnert-01.jpg
+    caption: "Figure 1: YouTube Short of a Holocaust Surivior discussing the I.D. card given to them, uploaded May 2023"
+    media_id: DggywYh50EM
+    media_type: youtube
+  - id: fig-broude-01
+    src: figures/fig-broude-01.jpg
+    caption: "Gameplay from *LSD: Dream Emulator.*"
+    media_id: FwjHNCwUxVQ
+    media_type: youtube
+  - id: fig-broude-02
+    src: figures/fig-broude-02.jpg
+    caption: "The official trailer for Radiohead's *Kid A Mnesia Exhibition.*"
+    media_id: AOinMjQ9jo8
+    media_type: youtube
+  - id: fig-broude-03
+    src: figures/fig-broude-03.png
+    caption: "The game's introduction and accompanying poem."
+    alt: "Green text on a black background that reads “THERE ARE DOORS IN DOORS/ AND THERE ARE TRAPDOORS/ THERE ARE DOORS THAT OPEN THEMSELVES/ THERE ARE SLIDING DOORS AND SECRET DOORS/ THERE ARE DOORS THAT LET YOU IN AND OUT/ BUT NEVER OPEN/ AND THERE ARE TRAPDOORS/ THAT YOU CAN'T COME BACK FROM/ KID A MNESIA EXHIBITION/ THIS IS NOT A GAME/ TAKE YOUR TIME/ YOU ARE AT THE BEGINNING/ SO THERE MUST BE AN END/ SOME PLACES WILL MAKE SENSE/ SOME WILL NEVER MAKE SENSE/ SEE YOU LATER”"
