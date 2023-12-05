@@ -24,9 +24,13 @@ So, what is a museum?  Well, it’s a space that, through one or more of Marstin
         
 Defining video games is quite a bit easier: a game where players use various methods of input to control and manipulate moving images created by a computer program.  This definition is an intentionally open one: not all video games involve killing enemies or chasing a high score.  Some feel more like pieces of art, or even entire galleries thereof.  Take Asmik Ace Entertainment's *LSD: Dream Emulator*, for example.  Directly inspired by one of the developer’s decades-spanning dream journals, the game has players travel through and explore incoherent, dream-like spaces.[8]  After each level (if they even be called that), the player is placed on a quadrant chart with “downer” and “upper” as the x-axes and “static” and “dynamic” as the y-axes. ({% cite 'Sato 1998' %})
 
+{% figure 'fig-broude-01' %} 
+
 *LSD* is a video game, yes, but it doesn't really behave like a game.  The player is never scored; there are no other characters you can interact with; there isn’t even much gameplay besides walking around and observing the art.  Much like, say, an art gallery.  Ignoring the fact that it exists not as a physical structure, can *LSD: Dream Emulator* be considered a museum?  The player isn’t really taught anything, but the same could be said about art museums whose labels include little more than the artist, the medium, and the year painted.  The deciding factor, then, should be intent: are these video games or other digital media projects intended to be treated like a museum?  For *LSD*, the answer seems to be no.  It functions as more an individual art piece, something to be displayed in and of itself.  
 
-*LSD Dream Emulator* is by far not the only not-game video game to take on the language of art and museums.  In November of 2021, British art-rock band Radiohead released *Kid A Mnesia Exhibition*. The game is best described as a visual arts museum dedicated to albums *Kid A* and *Amnesiac*, each song given a room with surreal, occasionally unsettling accompanying visuals. It may not exist in the real world, but the intention for this to be an actual, physical museum space was there from the start.  
+*LSD Dream Emulator* is by far not the only not-game video game to take on the language of art and museums.  In November of 2021, British art-rock band Radiohead released *Kid A Mnesia Exhibition*. The game is best described as a visual arts museum dedicated to albums *Kid A* and *Amnesiac*, each song given a room with surreal, occasionally unsettling accompanying visuals. It may not exist in the real world, but the intention for this to be an actual, physical museum space was there from the start.
+
+{% figure 'fig-broude-02' %} 
 
 Thom Yorke, Radiohead’s frontman, and Stanley Donwood, Radiohead’s main artist, both initially wanted Kid A Mnesia to be an exhibit at the U.K.’s Victoria and Albert Museum. Intending to create the space by welding together shipping containers, the pair wanted it to look out of place in Victoria and Albert’s classical architecture, forcing it into London like an “ice pick into Trotsky.” ({% cite 'Yorke 2021' %}) But real life got in the way. The exhibit couldn’t exist at the V&A without serious structural damages; the Westminster council denied a change of location to the Royal Albert Hall; finally, COVID-19 hit and fully denied any plans of a physical exhibition space.  
  
@@ -53,9 +57,7 @@ In their individual ways, *LSD: Dream Emulator*, *Kid A Mnesia Exhibition*, and 
 
 However, *Kid A Mnesia* does not teach its players anything, at least not directly. Most art museums, at least American ones, have some interpretation. Labels explain the artist’s history or inspirations; text on the walls explains the overarching theme of an exhibit; docents answer visitors’ questions. The closest *Kid A Mnesia* comes to this is the very beginning of the game, where some text on a wall begins with modified lyrics from the band’s song “Pulk/Pull Revolving Doors” followed by this somewhat cryptic poem: 
 
-
-
-
+{% figure 'fig-broude-03' %} 
 
 This begs the question: do museums need to be educational? Or is the presentation of art in an interesting manner enough?  While Kid A Mnesia may at times look like a museum, calling itself an exhibition and providing a museum-esque map at a linked website, it often does not function like one.  It intentionally dehumanizes every other person in the space, other “guests” and museum employees alike being rendered as simple stick figures.  Instead, the game uses the design space of museums as background context to show the players its art and its music, less interested in pedagogy and more interested in evoking specific feelings.  
 

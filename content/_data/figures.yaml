@@ -141,12 +141,12 @@ figure_list:
     media_id: DggywYh50EM
     media_type: youtube
   - id: fig-broude-01
-    src: figures/fig-broude-01.jpg
+    poster: figures/fig-broude-01.jpg
     caption: "Gameplay from *LSD: Dream Emulator.*"
     media_id: FwjHNCwUxVQ
     media_type: youtube
   - id: fig-broude-02
-    src: figures/fig-broude-02.jpg
+    poster: figures/fig-broude-02.jpg
     caption: "The official trailer for Radiohead's *Kid A Mnesia Exhibition.*"
     media_id: AOinMjQ9jo8
     media_type: youtube
