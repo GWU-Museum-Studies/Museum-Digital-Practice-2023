@@ -1,6 +1,6 @@
 ---
-title: The Virtual-Only Museum
-subtitle: An Inside Look into Girl Museum
+title: Making a Virtual Exhibition with Girl Museum
+subtitle: 
 layout: essay
 order: 39
 contributor:

@@ -61,9 +61,9 @@ contributor:
     last_name: Brown
     title:
     affiliation: George Washington University
-    bio: 
+    bio: "Emma Brown is a first year graduate student in the Museum Studies program at George Washington University focusing on Exhibitions and Visitor Experience. Originally from Perrysburg, Ohio, Emma earned her Bachelor's degree in history and minored in media Producation at Bowling Green State University. Her passions lie in public history and creating accessible enviornments inside museums."
     url:
-    image: contributors/
+    image: contributors/ebrown.png
   - id: gcubbage
     type: primary
     first_name: Grey
