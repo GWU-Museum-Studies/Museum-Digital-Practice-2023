@@ -1,0 +1,888 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+
+    <meta name="generator" content="Quire 1.0.0-rc.16">
+
+    <title>
+      Cost Effective 3D Digitization Methods | The State of Museum Digital
+      Practice | 2023
+    </title>
+
+    <meta name="description" content="The *State of Museum Digital Practice | 2023* is written, edited and published by students in *Museums and Technology* at George Washington University.">
+    <meta name="keywords" content="">
+
+    <link rel="canonical" href="https://gwu-museum-studies.github.io/Museum-Digital-Practice-2023/essays/loy/">
+    <link rel="version-history" href="undefined">
+
+    <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@1.0.56" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@iiif/vault-helpers@latest/dist/index.umd.js"></script>
+
+    <link rel="publisher" href="https://GWU-Museum-Studies.github.io/">
+
+    <link rel="schema.dcterms" href="https://purl.org/dc/terms/">
+    <meta name="dcterms.title" content="The State of Museum Digital Practice | 2023">
+    <meta name="dcterms.date" content="Thu Nov 30 2023 16:00:00 GMT-0800 (Pacific Standard Time)">
+    <meta name="dcterms.description" content="The *State of Museum Digital Practice | 2023* is written, edited and published by students in *Museums and Technology* at George Washington University.">
+    <meta name="dcterms.identifier" content="null">
+    <meta name="dcterms.language" content="en">
+    <meta name="dcterms.rights" content="null">
+    <meta name="dcterms.creator" content="Emily Bolesta">
+    <meta name="dcterms.creator" content="Emma Brown">
+    <meta name="dcterms.creator" content="Grey Cubbage">
+    <meta name="dcterms.creator" content="Lindsay Guarnieri">
+    <meta name="dcterms.creator" content="Kathleen Lauer">
+    <meta name="dcterms.creator" content="Xuexin Liu">
+    <meta name="dcterms.creator" content="Emma Meverden">
+    <meta name="dcterms.creator" content="Meg Capo">
+    <meta name="dcterms.creator" content="Dana Golan Miller">
+    <meta name="dcterms.creator" content="Noah Broude">
+    <meta name="dcterms.creator" content="Jay Loy">
+    <meta name="dcterms.creator" content="Natalie R. Macurdy">
+    <meta name="dcterms.creator" content="Samuel Huber">
+    <meta name="dcterms.creator" content="Nichole Nappi">
+    <meta name="dcterms.creator" content="Alyssa Mehnert">
+    <meta name="dcterms.creator" content="Suse Anderson">
+    <meta name="dcterms.publisher" content="GWU Museum Studies, Washington, D.C.">
+    <meta name="dcterms.subject" content="museums, technology, museum studies, digital practice, emerging technology">
+
+    <meta property="og:title" content="The State of Museum Digital Practice | 2023">
+    <meta property="og:url" content="https://gwu-museum-studies.github.io/Museum-Digital-Practice-2023/undefined">
+    <meta property="og:image" content="aicover.png">
+    <meta property="og:description" content="The *State of Museum Digital Practice | 2023* is written, edited and published by students in *Museums and Technology* at George Washington University.">
+    <meta property="og:type" content="book">
+    <meta property="og:book:isbn" content="null">
+    <meta property="og:book:release_date" content="Thu Nov 30 2023 16:00:00 GMT-0800 (Pacific Standard Time)">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="null">
+    <meta name="twitter:title" content="The State of Museum Digital Practice | 2023">
+    <meta name="twitter:description" content="The *State of Museum Digital Practice | 2023* is written, edited and published by students in *Museums and Technology* at George Washington University.">
+    <meta name="twitter:image" content="/_assets/images/aicover.png">
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org/",
+        "@type": "Article",
+        "author": [{ "type": "Person", "name": "undefined undefined" }],
+        "headline": "Cost Effective 3D Digitization Methods",
+        "partOf": {
+          "type": "Book",
+          "name": "The State of Museum Digital Practice | 2023",
+          "description": "",
+          "isbn": null,
+          "about": [],
+          "author": [
+            {
+              "type": "Person",
+              "name": "Emily Bolesta",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Emma Brown",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Grey Cubbage",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Lindsay Guarnieri",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Kathleen Lauer",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Xuexin Liu",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Emma Meverden",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Meg Capo",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Dana Golan Miller",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Noah Broude",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Jay Loy",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Natalie R. Macurdy",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Samuel Huber",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Nichole Nappi",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Alyssa Mehnert",
+              "jobTitle": null,
+              "affiliation": "George Washington University",
+              "identifier": null
+            },
+            {
+              "type": "Person",
+              "name": "Suse Anderson",
+              "jobTitle": "Program Head + Associate Professor, Museum Studies",
+              "affiliation": "George Washington University",
+              "identifier": null
+            }
+          ],
+          "datePublished": "2023-12-01T00:00:00.000Z",
+          "image": "/_assets/images/aicover.png",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "keywords": "",
+          "publisher": [
+            { "type": "Organization", "location": { "type": "PostalAddress" } }
+          ],
+          "url": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2023/"
+        },
+        "url": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2023/essays/loy/"
+      }
+    </script>
+
+    <link rel="icon" href="/Museum-Digital-Practice-2023/_assets/images/icons/favicon.ico">
+    <!--
+            styles are already imported in _assets/javascript/application/index.js
+            and rendered as inline minified <style type="text/css">...</style> blocks,
+            not using these file links
+          -->
+    <!-- <link rel="stylesheet" href="/_assets/styles/application.scss" /> -->
+    <!-- <link rel="stylesheet" href="/_assets/styles/custom.css" /> -->
+
+    <!-- {% render 'polyfills/template.html' %} -->
+    <script type="module" crossorigin src="/Museum-Digital-Practice-2023/_assets/index-4a43986f.js"></script>
+    <link rel="stylesheet" href="/Museum-Digital-Practice-2023/_assets/index.css">
+  </head>
+
+  <body>
+    <svg style="display: none">
+      <symbol id="left-arrow-icon" viewBox="0 0 18 32">
+        <path d="M23.1,11.1L21,9l-9,9l9,9l2.1-2.1L16.2,18L23.1,11.1z"></path>
+      </symbol>
+      <symbol id="right-arrow-icon" viewBox="0 0 18 32">
+        <path d="M12.9,11.1L15,9l9,9l-9,9l-2.1-2.1l6.9-6.9L12.9,11.1z"></path>
+      </symbol>
+      <symbol id="search-icon" viewBox="0 0 32 32">
+        <path d="M18.6,16.4h-1.2L17,16c1.5-1.7,2.3-3.9,2.3-6.3C19.3,4.3,15,0,9.7,0S0,4.3,0,9.7s4.3,9.7,9.7,9.7c2.4,0,4.6-0.9,6.3-2.3
+      l0.4,0.4v1.2l7.4,7.4l2.2-2.2L18.6,16.4z M9.7,16.4C6,16.4,3,13.4,3,9.7S6,3,9.7,3s6.7,3,6.7,6.7S13.4,16.4,9.7,16.4z"></path>
+      </symbol>
+      <symbol id="nav-icon" viewBox="0 0 32 32">
+        <path d="M0,6.7h24.9V3.1H0V6.7z M0,13.8h24.9v-3.6H0V13.8z M0,20.9h24.9v-3.6H0V20.9z M28.4,20.9H32v-3.6h-3.6V20.9z M28.4,3.1v3.6
+      H32V3.1H28.4z M28.4,13.8H32v-3.6h-3.6V13.8z"></path>
+      </symbol>
+      <symbol id="arrow-forward-icon" viewBox="0 0 32 32">
+        <path d="M16,5.3l-1.9,1.9l7.4,7.5H5.3v2.7h16.2l-7.4,7.5l1.9,1.9L26.7,16L16,5.3z"></path>
+      </symbol>
+      <symbol id="home-icon" viewBox="0 0 32 32">
+        <path d="M11,18V6l-8.5,6L11,18z M11.5,12l8.5,6V6L11.5,12z"></path>
+      </symbol>
+      <symbol id="start-icon" viewBox="0 0 32 32">
+        <path d="M8,5v14l11-7L8,5z"></path>
+      </symbol>
+      <symbol id="down-arrow-icon" viewBox="0 0 32 32">
+        <path d="M16.6,8.6L12,13.2L7.4,8.6L6,10l6,6l6-6L16.6,8.6z"></path>
+      </symbol>
+      <symbol id="link-icon" viewBox="0 0 20 20">
+        <path d="M3.3,16.7c-1.4-1.4-1.4-3.7,0-5.1l3.3-3.3L5,6.7L1.7,10c-2.3,2.3-2.3,6,0,8.3s6,2.3,8.3,0l3.3-3.3l-1.6-1.6l-3.3,3.3
+          C7,18.1,4.7,18.1,3.3,16.7z M7.5,14.1l6.6-6.6l-1.7-1.7l-6.6,6.6L7.5,14.1z M10,1.7L6.7,5l1.6,1.6l3.3-3.3c1.4-1.4,3.7-1.4,5.1,0
+          s1.4,3.7,0,5.1l-3.3,3.3l1.6,1.6l3.3-3.3c2.3-2.3,2.3-6,0-8.3S12.3-0.6,10,1.7z"></path>
+      </symbol>
+      <symbol id="close-icon" viewBox="0 0 48 48">
+        <path d="M38 12.83L35.17 10 24 21.17 12.83 10 10 12.83 21.17 24 10 35.17 12.83 38 24 26.83 35.17 38 38 35.17 26.83 24z"></path>
+      </symbol>
+      <symbol id="download-icon" viewBox="0 0 32 32">
+        <path d="M28.4,16v12.4H3.6V16H0v12.4c0,2,1.6,3.6,3.6,3.6h24.9c2,0,3.6-1.6,3.6-3.6V16H28.4z M17.8,17.2l4.6-4.6l2.5,2.5L16,24
+          l-8.9-8.9l2.5-2.5l4.6,4.6V0h3.6V17.2z"></path>
+      </symbol>
+      <symbol id="plus-icon" viewBox="0 0 16 16">
+        <path d="M26 0C11.664 0 0 11.663 0 26s11.664 26 26 26 26-11.663 26-26S40.336 0 26 0zm0 50C12.767 50 2 39.233 2 26S12.767 2 26 2s24 10.767 24 24-10.767 24-24 24z"></path>
+        <path d="M38.5 25H27V14c0-.553-.448-1-1-1s-1 .447-1 1v11H13.5c-.552 0-1 .447-1 1s.448 1 1 1H25v12c0 .553.448 1 1 1s1-.447 1-1V27h11.5c.552 0 1-.447 1-1s-.448-1-1-1z"></path>
+      </symbol>
+      <symbol id="fullscreen-icon" viewBox="0 0 24 24">
+        <path d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"></path>
+      </symbol>
+      <symbol id="add-circle-icon" viewBox="0 0 20 20">
+        <path d="M9.25 14h1.5v-3.25H14v-1.5h-3.25V6h-1.5v3.25H6v1.5h3.25Zm.75 4q-1.646 0-3.104-.625-1.458-.625-2.552-1.719t-1.719-2.552Q2 11.646 2 10q0-1.667.625-3.115.625-1.447 1.719-2.541Q5.438 3.25 6.896 2.625T10 2q1.667 0 3.115.625 1.447.625 2.541 1.719 1.094 1.094 1.719 2.541Q18 8.333 18 10q0 1.646-.625 3.104-.625 1.458-1.719 2.552t-2.541 1.719Q11.667 18 10 18Zm0-1.5q2.708 0 4.604-1.896T16.5 10q0-2.708-1.896-4.604T10 3.5q-2.708 0-4.604 1.896T3.5 10q0 2.708 1.896 4.604T10 16.5Zm0-6.5Z"></path>
+      </symbol>
+      <symbol id="rotation-icon" viewBox="0 0 24 24">
+        <path d="M8.76918 19.1836L7.77593 18.1904L9.67785 16.2779C7.68107 16.0073 6.01922 15.4801 4.6923 14.6961C3.36537 13.9121 2.7019 13.0201 2.7019 12.0202C2.7019 10.8314 3.60117 9.80777 5.3997 8.9493C7.19822 8.09082 9.39805 7.66158 11.9992 7.66158C14.6003 7.66158 16.8004 8.09082 18.5995 8.9493C20.3985 9.80777 21.298 10.8314 21.298 12.0202C21.298 12.8584 20.8103 13.633 19.835 14.344C18.8597 15.055 17.5679 15.5936 15.9596 15.9596V14.5298C17.2211 14.1965 18.1931 13.7907 18.8754 13.3125C19.5578 12.8343 19.899 12.4035 19.899 12.0202C19.899 11.4676 19.197 10.8362 17.7929 10.126C16.3888 9.4157 14.4582 9.06057 12.001 9.06057C9.5439 9.06057 7.61293 9.4157 6.20813 10.126C4.80331 10.8362 4.1009 11.4676 4.1009 12.0202C4.1009 12.4587 4.59338 12.9806 5.57833 13.5861C6.56328 14.1915 7.89133 14.6154 9.56248 14.8577L7.77593 13.0711L8.76918 12.0779L12.322 15.6308L8.76918 19.1836Z"></path>
+      </symbol>
+    </svg>
+
+    <svg style="display: none" data-outputs-exclude="epub,pdf">
+      <symbol id="by" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29.9 0C38.3 0 45.4 2.9 51.2 8.7C57 14.5 59.9 21.6 59.9 30C59.9 38.4 57 45.4 51.3 51.1C45.2 57.1 38.1 60 29.8 60C21.7 60 14.7 57.1 8.7 51.2C2.9 45.3 0 38.2 0 30C0 21.8 2.9 14.7 8.8 8.7C14.6 2.9 21.7 0 29.9 0ZM30.1 5.4C23.3 5.4 17.5 7.8 12.8 12.6C7.9 17.6 5.5 23.4 5.5 30C5.5 36.6 7.9 42.4 12.8 47.2C17.7 52.1 23.4 54.5 30.2 54.5C36.9 54.5 42.7 52.1 47.7 47.2C52.4 42.7 54.8 36.9 54.8 30C54.8 23.2 52.4 17.4 47.6 12.6C42.6 7.8 36.8 5.4 30.1 5.4ZM38.1 22.6V34.9H34.7V49.5H25.4V34.8H22V22.6C22 22.1 22.2 21.6 22.6 21.2C23 20.8 23.4 20.6 24 20.6H36.3C36.8 20.6 37.2 20.8 37.6 21.2C37.9 21.6 38.1 22 38.1 22.6ZM25.8 14.8C25.8 12 27.2 10.6 30 10.6C32.8 10.6 34.2 12 34.2 14.8C34.2 17.6 32.8 19 30 19C27.2 19 25.8 17.6 25.8 14.8Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="cc" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29.9 0C38.3 0 45.4 2.90484 51.3 8.81469C54.1 11.6194 56.3 14.8247 57.7 18.5309C59.3 22.1369 60 25.9432 60 30.0501C60 34.1569 59.3 38.0634 57.8 41.5693C56.4 45.1753 54.2 48.3806 51.4 51.0851C48.5 53.99 45.2 56.1937 41.4 57.6962C37.7 59.1987 33.8 60 29.9 60C26 60 22.1 59.1987 18.5 57.6962C14.9 56.1937 11.6 53.99 8.7 51.0851C5.8 48.1803 3.6 44.975 2.1 41.3689C0.6 37.7629 0 34.0568 0 30.0501C0 26.0434 0.8 22.2371 2.3 18.6311C3.8 15.025 6 11.6194 8.9 8.71452C14.6 2.90484 21.6 0 29.9 0ZM30.1 5.40901C23.2 5.40901 17.5 7.81302 12.8 12.621C10.4 15.025 8.6 17.7295 7.4 20.7346C6.1 23.7396 5.5 26.8447 5.5 30.0501C5.5 33.2554 6.1 36.3606 7.4 39.3656C8.7 42.3706 10.5 44.975 12.8 47.379C15.2 49.6828 17.8 51.4858 20.8 52.788C23.8 53.99 26.9 54.591 30.1 54.591C33.3 54.591 36.4 53.99 39.4 52.6878C42.4 51.3856 45.1 49.5826 47.6 47.2788C52.3 42.6711 54.6 36.9616 54.6 30.0501C54.6 26.7446 54 23.5392 52.8 20.6344C51.6 17.6294 49.8 15.025 47.5 12.7212C42.6 7.81302 36.8 5.40901 30.1 5.40901ZM29.7 25.0417L25.7 27.1452C25.3 26.2437 24.7 25.6427 24.1 25.2421C23.5 24.8414 22.9 24.7412 22.4 24.7412C19.7 24.7412 18.4 26.5442 18.4 30.0501C18.4 31.6528 18.7 32.9549 19.4 33.9566C20.1 34.9583 21.1 35.3589 22.4 35.3589C24.2 35.3589 25.4 34.4574 26.1 32.7546L29.8 34.6578C29 36.1603 27.9 37.2621 26.5 38.1636C25.1 38.9649 23.6 39.4658 21.9 39.4658C19.2 39.4658 17.1 38.6644 15.4 36.9616C13.8 35.3589 12.9 33.0551 12.9 30.0501C12.9 27.1452 13.7 24.9416 15.4 23.2387C17.1 21.5359 19.2 20.7346 21.7 20.7346C25.4 20.7346 28.1 22.1369 29.7 25.0417ZM47 25.0417L43 27.1452C42.6 26.2437 42 25.6427 41.4 25.2421C40.8 24.8414 40.2 24.7412 39.6 24.7412C36.9 24.7412 35.6 26.5442 35.6 30.0501C35.6 31.6528 35.9 32.9549 36.6 33.9566C37.3 34.9583 38.3 35.3589 39.6 35.3589C41.3 35.3589 42.6 34.4574 43.3 32.7546L47.1 34.6578C46.3 36.1603 45.2 37.2621 43.8 38.1636C42.4 38.9649 40.9 39.4658 39.2 39.4658C36.5 39.4658 34.3 38.6644 32.7 36.9616C31.1 35.3589 30.3 33.0551 30.3 30.0501C30.3 27.1452 31.1 24.9416 32.8 23.2387C34.5 21.5359 36.6 20.7346 39.1 20.7346C42.8 20.7346 45.4 22.1369 47 25.0417Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="nc" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.3 57.1 38.2 60 29.9 60C21.8 60 14.7 57 8.80001 51.1C2.90001 45.2 0 38.2 0 30C0 21.8 2.90001 14.7 8.80001 8.7C14.7 2.9 21.8 0 30 0ZM6.90001 21.9C6.00001 24.4 5.60001 27.1 5.60001 30C5.60001 36.6 8.00001 42.4 12.9 47.3C17.8 52.1 23.6 54.5 30.3 54.5C37.1 54.5 42.9 52.1 47.8 47.2C49.6 45.5 50.9 43.8 51.9 41.9L40.6 36.9C40.2 38.8 39.3 40.3 37.7 41.5C36.2 42.7 34.4 43.4 32.3 43.6V48.2H28.8V43.6C25.5 43.6 22.4 42.4 19.7 40L23.8 35.8C25.8 37.6 28 38.5 30.5 38.5C31.5 38.5 32.4 38.3 33.2 37.8C33.9 37.3 34.3 36.6 34.3 35.5C34.3 34.7 34 34.1 33.5 33.7L30.6 32.5L27.1 30.9L22.3 28.8L6.90001 21.9ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C11.7 13.8 10.6 15.1 9.60001 16.6L21.1 21.7C21.6 20.1 22.5 18.9 23.9 17.9C25.3 17 26.9 16.4 28.8 16.3V11.7H32.3V16.3C35.1 16.4 37.5 17.4 39.8 19.1L35.9 23.1C34.2 21.9 32.5 21.3 30.8 21.3C29.9 21.3 29 21.5 28.3 21.8C27.6 22.2 27.2 22.8 27.2 23.6C27.2 23.9 27.3 24.1 27.5 24.4L31.3 26.1L33.9 27.3L38.7 29.4L54.1 36.3C54.6 34.2 54.9 32.1 54.9 29.9C54.9 23 52.5 17.2 47.7 12.5C42.8 7.8 37 5.4 30.2 5.4Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="nd" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.4 57 38.2 60 29.9 60C21.8 60 14.8 57.1 8.8 51.2C2.90001 45.3 0 38.3 0 30C0 21.8 2.90001 14.7 8.8 8.7C14.8 2.9 21.8 0 30 0ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C8.00001 17.6 5.60001 23.4 5.60001 30C5.60001 36.7 8.00001 42.4 12.9 47.3C17.8 52.2 23.5 54.6 30.3 54.6C37 54.6 42.8 52.2 47.8 47.3C52.5 42.7 54.9 37 54.9 30.1C54.9 23.2 52.5 17.5 47.7 12.7C42.8 7.8 37 5.4 30.2 5.4ZM41.5 22.9V28H19.7V22.9H41.5ZM41.5 32.6V37.7H19.7V32.6H41.5Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="sa" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.4 57 38.2 60 29.9 60C21.8 60 14.8 57.1 8.8 51.2C2.9 45.3 0 38.3 0 30C0 21.8 2.9 14.7 8.8 8.7C14.8 2.9 21.8 0 30 0ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C8.00001 17.6 5.60001 23.4 5.60001 30C5.60001 36.7 8.00001 42.4 12.9 47.2C17.8 52.1 23.5 54.5 30.3 54.5C37 54.5 42.8 52.1 47.8 47.2C52.5 42.6 54.9 36.9 54.9 30C54.9 23.1 52.5 17.4 47.7 12.6C42.8 7.8 37 5.4 30.2 5.4ZM16.8 25.8C17.4 22.1 18.9 19.3 21.2 17.3C23.6 15.3 26.5 14.3 29.9 14.3C34.6 14.3 38.4 15.8 41.1 18.9C43.9 21.9 45.3 25.8 45.3 30.6C45.3 35.2 43.9 39 41 42.1C38.1 45.2 34.4 46.7 29.7 46.7C26.3 46.7 23.4 45.7 20.9 43.6C18.4 41.6 17 38.7 16.5 34.9H24.1C24.3 38.5 26.5 40.4 30.7 40.4C32.8 40.4 34.5 39.5 35.8 37.7C37.1 35.9 37.7 33.4 37.7 30.4C37.7 27.2 37.1 24.8 35.9 23.1C34.7 21.4 33 20.6 30.8 20.6C26.8 20.6 24.5 22.4 24 25.9H26.2L20.3 31.8L14.4 25.9L16.8 25.8Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="zero" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 12.7C20.1 12.7 17.6 22 17.6 30C17.6 37.9 20.1 47.3 30 47.3C39.9 47.3 42.4 38 42.4 30C42.4 22.1 39.9 12.7 30 12.7ZM30 19.2C30.4 19.2 30.8 19.3 31.1 19.3C31.8 19.9 32.2 20.8 31.5 21.9L24.9 34C24.7 32.5 24.7 31 24.7 29.8C24.7 26.5 24.9 19.2 30 19.2ZM34.9 24.8C35.2 26.7 35.3 28.6 35.3 30C35.3 33.5 35.1 40.8 30 40.8C29.6 40.8 29.2 40.8 28.9 40.7C28.8 40.7 28.8 40.7 28.7 40.6C28.6 40.6 28.5 40.5 28.4 40.5C27.3 40 26.6 39.1 27.6 37.6L34.9 24.8Z" fill="currentColor"></path>
+        <path d="M29.9 0C21.6 0 14.6 2.9 8.8 8.7C5.9 11.6 3.7 14.9 2.2 18.6C0.699997 22.2 0 26 0 30C0 34 0.699997 37.8 2.2 41.4C3.7 45 5.9 48.3 8.7 51.1C11.6 54 14.8 56.2 18.4 57.7C22.2 59.3 26 60 29.9 60C33.9 60 37.7 59.2 41.4 57.7C45.1 56.2 48.4 54 51.4 51.1C54.2 48.4 56.4 45.2 57.8 41.6C59.3 38 60 34.1 60 30C60 25.9 59.3 22.1 57.8 18.5C56.3 14.9 54.2 11.6 51.4 8.8C45.5 2.9 38.3 0 29.9 0ZM30.1 5.4C36.9 5.4 42.7 7.8 47.5 12.6C49.8 14.9 51.6 17.6 52.8 20.5C54 23.5 54.6 26.6 54.6 29.9C54.6 36.8 52.2 42.5 47.6 47.1C45.2 49.5 42.4 51.3 39.4 52.5C36.4 53.8 33.3 54.4 30.1 54.4C26.8 54.4 23.7 53.8 20.8 52.6C17.8 51.3 15.2 49.6 12.8 47.2C10.4 44.8 8.6 42.2 7.3 39.2C6.1 36.2 5.4 33.1 5.4 29.9C5.4 26.6 6 23.5 7.3 20.6C8.6 17.6 10.4 14.9 12.8 12.5C17.4 7.8 23.2 5.4 30.1 5.4Z" fill="currentColor"></path>
+      </symbol>
+    </svg>
+
+    <div class="quire no-js" id="container">
+      <div aria-expanded="false" class="quire__secondary" id="site-menu" role="contentinfo" data-outputs-exclude="epub,pdf">
+        <div class="quire-menu menu" role="banner" id="site-menu-inner">
+          <header class="quire-menu__header">
+            <a class="quire-menu__header__title-link" href="/Museum-Digital-Practice-2023/">
+              <h4 class="quire-menu__header__title">
+                <span class="visually-hidden">Site Title: </span>
+                The State of Museum Digital Practice | 2023: A collection of
+                graduate essays
+              </h4>
+            </a>
+
+            <div class="quire-menu__header__contributors">
+              <span class="visually-hidden">Contributors: </span>Museums and
+              Technology | George Washington University
+            </div>
+          </header>
+
+          <nav id="nav" class="quire-menu__list menu-list" role="navigation" aria-label="full">
+            <h3 class="visually-hidden">Table of Contents</h3>
+            <ol>
+              <li class="page-item">
+                <a href="/Museum-Digital-Practice-2023/contents/" class="">Contents</a>
+              </li>
+              <li class="page-item">
+                <a href="/Museum-Digital-Practice-2023/intro/" class="">Teaching Museum Digital Practice in 2023</a>
+              </li>
+              <li class="section-item">
+                <a href="/Museum-Digital-Practice-2023/essays/" class="">Essays</a>
+                <ol>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/bolesta/" class="">Filling in the Gaps</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/cubbage/" class="">Exhibit Spaces in VR</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/meverden/" class="">New Age Interactions</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/macurdy/" class="">The Advent of QR Codes in Museum Collections
+                      (Finally?)</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/lauer/" class="">Found in Translation</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/golan miller/" class="">The Private Art Collection Website, 2013-2023</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/huber/" class="">Video Games as Interactives in Museums</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/nappi/" class="">AI-Based Provenance Research in Museums</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/broude/" class="">A Dream Journal, Radiohead, and Grim Fantasy Walk into a
+                      Bar</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/guarnieri/" class="">Making a Virtual Exhibition with Girl Museum</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/loy/" class="active">Cost Effective 3D Digitization Methods</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/liu/" class=""></a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/brown/" class="">Oral History in Museum Exhibitions</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/mehnert/" class="">Youtube –– A Platform for Holocaust Education?</a>
+                  </li>
+                  <li class="page-item">
+                    <a href="/Museum-Digital-Practice-2023/essays/capo/" class="">Up Your Game</a>
+                  </li>
+                </ol>
+              </li>
+              <li class="page-item">
+                <a href="/Museum-Digital-Practice-2023/bibliography/" class="">Bibliography</a>
+              </li>
+              <li class="page-item">
+                <a href="/Museum-Digital-Practice-2023/contributors/" class="">Contributors</a>
+              </li>
+              <li class="page-item">
+                <a href="/Museum-Digital-Practice-2023/about/" class="">Museum Studies at GWU</a>
+              </li>
+            </ol>
+          </nav>
+
+          <div class="quire-menu__formats">
+            <h6>Other Formats</h6>
+            <div role="complementary" aria-label="downloads">
+              <ul class="menu-list">
+                <li>
+                  <a href="/Museum-Digital-Practice-2023/downloads/output.pdf" class="" target="_blank" rel="alternate" type="application/pdf">
+                    PDF
+                  </a>
+                </li>
+                <li>
+                  <a href="/Museum-Digital-Practice-2023/downloads/output.epub" class="" target="_blank" rel="alternate" type="application/epub+zip">
+                    EPUB
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="quire-menu__formats">
+            <h6>Cite this Page</h6>
+            <div class="cite-this">
+              <span class="cite-this__heading"> Chicago </span>
+              <span class="cite-this__text">
+                Loy, Jay. “Cost Effective 3D Digitization Methods.” In
+                <span style="font-Style: Italic;">The State of Museum Digital Practice | 2023: A Collection of
+                  Graduate Essays</span>, by Emily Bolesta, Emma Brown, Grey Cubbage, Lindsay
+                Guarnieri, Kathleen Lauer, Xuexin Liu, Emma Meverden, et al.
+                Washington, D.C.: GWU Museum Studies, 2023.
+                https://gwu-museum-studies.github.io/Museum-Digital-Practice-2023/essays/loy/.
+              </span>
+            </div>
+
+            <div class="cite-this">
+              <span class="cite-this__heading"> MLA </span>
+              <span class="cite-this__text">
+                Loy, Jay. “Cost Effective 3D Digitization Methods.”
+                <span style="font-Style: Italic;">The State of Museum Digital Practice | 2023: A Collection of
+                  Graduate Essays</span>, by Emily Bolesta et al., GWU Museum Studies, 2023,
+                https://gwu-museum-studies.github.io/Museum-Digital-Practice-2023/essays/loy/.
+                Accessed <span class="cite-current-date">DD Mon. YYYY</span>.
+              </span>
+            </div>
+          </div>
+
+          <footer class="quire-menu__footer" role="contentinfo">
+            <div class="quire-copyright">
+              <a class="quire-copyright__icon__link" href="https://creativecommons.org/licenses/by/4.0/" rel="license" target="_blank">
+                <svg class="quire-copyright__icon">
+                  <use xlink:href="#cc"></use>
+                </svg>
+                <svg class="quire-copyright__icon">
+                  <use xlink:href="#by"></use>
+                </svg>
+              </a>
+
+              <div class="is-screen-only">
+                This work is licensed under a
+                <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>.
+                <span class="is-print-only">
+                  To view a copy of this license visit
+                  https://creativecommons.org/licenses/by/4.0/.
+                </span>
+              </div>
+              <div class="is-print-only">
+                This work is licensed under a
+                <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>.
+                <span class="is-print-only">
+                  To view a copy of this license visit
+                  https://creativecommons.org/licenses/by/4.0/.
+                </span>
+              </div>
+            </div>
+
+            <ul class="menu-list">
+              <li>
+                <a href="/Museum-Digital-Practice-2023/about/" class="" target="_blank" rel="about">
+                  About
+                </a>
+              </li>
+              <li>
+                <a href="null" class="" target="_blank" rel="privacy-policy">
+                  Privacy Policy
+                </a>
+              </li>
+              <li>
+                <a href="null" class="" target="_blank" rel="terms-of-service">
+                  Terms of Use
+                </a>
+              </li>
+            </ul>
+          </footer>
+        </div>
+      </div>
+      <div class="quire__primary">
+        <div class="quire-navbar">
+          <a href="#main" class="quire-navbar-skip-link" tabindex="1">
+            Skip to Main Content
+          </a>
+          <nav class="quire-navbar-controls">
+            <div class="quire-navbar-controls__left">
+              <button class="quire-navbar-button search-button" aria-controls="quire-search" onclick="toggleSearch()">
+                <svg data-outputs-exclude="epub,pdf">
+                  <switch>
+                    <use xlink:href="#search-icon"></use>
+                  </switch>
+                </svg>
+                <span class="visually-hidden">Search</span>
+              </button>
+            </div>
+            <div class="quire-navbar-controls__center">
+              <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
+                <li class="quire-navbar-page-controls__item quire-previous-page">
+                  <a href="/Museum-Digital-Practice-2023/essays/guarnieri/" rel="previous">
+                    <span class="visually-hidden">Previous Page: </span>
+                    <svg class="left-icon" data-outputs-exclude="epub,pdf">
+                      <switch>
+                        <use xlink:href="#left-arrow-icon"></use>
+                      </switch>
+                    </svg>
+                    Making a Virtual Exhibition with G
+                  </a>
+                </li>
+
+                <li class="quire-navbar-page-controls__item quire-home-page">
+                  <a href="/Museum-Digital-Practice-2023/" rel="home">
+                    <span class="visually-hidden">Home Page: </span>
+                    <span class="quire-navbar-button home-button">
+                      <svg data-outputs-exclude="epub,pdf">
+                        <switch>
+                          <use xlink:href="#home-icon"></use>
+                        </switch>
+                      </svg>
+                    </span>
+                  </a>
+                </li>
+
+                <li class="quire-navbar-page-controls__item quire-next-page">
+                  <a href="/Museum-Digital-Practice-2023/essays/liu/" rel="next">
+                    <span class="visually-hidden">Next Page: </span>
+
+                    <svg data-outputs-exclude="epub,pdf">
+                      <switch>
+                        <use xlink:href="#right-arrow-icon"></use>
+                      </switch>
+                    </svg>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="quire-navbar-controls__right">
+              <button class="quire-navbar-button menu-button" id="quire-controls-menu-button" onclick="toggleMenu()" aria-expanded="true" aria-controls="quire-menu" tabindex="2">
+                <svg data-outputs-exclude="epub,pdf">
+                  <switch>
+                    <use xlink:href="#nav-icon"></use>
+                  </switch>
+                </svg>
+                <span class="visually-hidden">Table of Contents</span>
+              </button>
+            </div>
+          </nav>
+          <div class="quire-progress-bar">
+            <div style="width: 68.18181818181819%">
+              <span>15/22</span>
+            </div>
+          </div>
+        </div>
+
+        <main class="quire-page quire-essay" data-output-path="_site/essays/loy/index.html" data-page-id="page-essays-loy">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="cost-effective-3d-digitization-methods">
+                Cost Effective 3D Digitization Methods
+              </h1>
+              <div class="quire-page__header__contributor">
+                <ul class="quire-contributors-list name-title align-left">
+                  <li class="quire-contributor" id="jloy">
+                    <span class="quire-contributor__name">Jay Loy</span>,
+                    <span class="quire-contributor__affiliation">George Washington University</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  Digitization processes have become standard practice for large
+                  museums and cultural institutions. These processes can create
+                  a variety of products that can be shared with broader
+                  audiences and researchers. Museums can deliver things like
+                  high-quality photos, complex 3D scans of objects, immersive
+                  digital experiences, and endless applications for researchers.
+                  These projects are often incredibly expensive, require costly
+                  equipment and specialized knowledge, and take a tremendous
+                  amount of time to produce. With the barrier of entry so high,
+                  many smaller cultural institutions have no way of funding
+                  these projects, instead relying on unpredictable grant
+                  funding. Here I will be exploring potential low-cost
+                  alternatives to the traditional costly digitization project.
+                </p>
+                <p>
+                  In the past, I have worked on a museum digitization project
+                  working primarily with natural history collections. Our work
+                  was high-resolution static photography with the objects inside
+                  of a lightbox. Working with that project inspired me to feel
+                  passionate about collections digitization, something that
+                  continues to fascinate me today. Our incredibly inexpensive
+                  setup was still only able to be realized because we were
+                  fortunate enough to have the project financed through a state
+                  grant. With the high barrier of entry to digitization projects
+                  of even a decent quality, I found myself constantly thinking
+                  of inexpensive ways to allow small museums to produce digital
+                  representations of their collection objects.
+                </p>
+                <p>
+                  Recently lines of consumer technology like cellphones and
+                  tablets have come standard with LiDAR functions built into the
+                  camera sensors. This allows something like a cellphone to
+                  measure the distance from the camera to an object. This means
+                  that there are various applications that can use these LiDAR
+                  scans to create 3D renderings of complex objects. These scans
+                  are of course not as high quality as ones produced by
+                  dedicated LiDAR scanners, but the barrier for entry is far
+                  lower. The potential for museum employees to use inexpensive
+                  hardware (that some employees might already have) to produce
+                  even decent-quality 3D renderings can open many doors for
+                  smaller institutions. However, LiDAR is not the only avenue
+                  for producing renderings of objects.
+                </p>
+                <p>
+                  The other type of digitization commonly seen in museums is 3D
+                  Photogrammetry. Photogrammetry is a process that uses multiple
+                  2D photos of an object from numerous angles to stitch together
+                  a complex 3D model of the object in question. Photogrammetry
+                  is a more time-consuming process requiring post-processing and
+                  using often complicated and proprietary software. Other
+                  open-source alternatives are available but are typically built
+                  on Blender, a program frequently used for 3D modeling, which
+                  can have a steep learning curve. Photogrammetry setups
+                  typically require one or many DSLR cameras to capture many
+                  photos from different angles, and a rotating surface that
+                  allows an object being digitized to not require constant
+                  adjustment. The barriers to entry for this method are again
+                  primarily monetary. These scanning setups can be expensive to
+                  produce and time-consuming to produce scans with. The programs
+                  typically required to produce these models are also
+                  complicated and can require specialized knowledge. However, a
+                  potential solution again may reside in the consumer tech we
+                  all walk around with.
+                </p>
+                <p>
+                  With recent technology allowing easier scans to be produced,
+                  and with cellphone cameras taking higher resolution photos
+                  than ever before, the opportunities for democratized 3D
+                  modeling are starting to be realized. In exploring the ways
+                  financially constrained museums can produce reasonable quality
+                  3D scans I found numerous services and applications that offer
+                  cloud computing for 3D modeling using scans from cellphones
+                  and tablets. These applications require you to upload your
+                  photos or scans to their servers, where their automated
+                  processes will complete the modeling for the user and return a
+                  finalized 3D scan. These applications frequently offer a free
+                  limited license and an inexpensive unrestricted license. Of
+                  course, there is a catch, the question of ownership of the
+                  models produced is important for cultural institutions seeking
+                  to use these tools, and each application has different rules
+                  in their terms of service. The application I chose to use for
+                  this exploration, Polycam, grants the user ownership of the
+                  models produced but retains the rights to use said scans for a
+                  wide variety of applications on their end (<cite class="quire-citation expandable"><span class="quire-citation__button" role="button" tabindex="0" aria-expanded="false">Terms of Service, 8-9</span><span class="quire-citation__content" hidden="">“Terms of Service.” poly.cam, May 1, 2023.
+                      <a href="https://poly.cam/terms_and_conditions.pdf#page7" target="_blank">https://poly.cam/terms_and_conditions.pdf#page7</a>.</span></cite>).
+                </p>
+                <p>
+                  Producing 3D scans has clearly become easier and cheaper than
+                  ever before. This means that previously cost-prohibitive
+                  scanning projects may be approachable for even financially
+                  constrained institutions. In terms of hardware, employees may
+                  already own a cellphone or tablet capable of performing LiDAR
+                  scans, and any relatively recent smartphone can take photos
+                  that will work for cloud-processed scans. These processes are
+                  intuitive and quick, meaning that there’s no need for
+                  specialized training or hiring staff with technical knowledge,
+                  this can be completed by almost any employee with a short
+                  training window.
+                </p>
+                <p>
+                  To illustrate the workflow, deliverables, and relative ease of
+                  these scanning processes I have created 3D models of an
+                  antique camera I had sitting on my desk. I chose this object
+                  because it is small and easy to handle but is still complex
+                  with lots of room for detail. It will also serve to highlight
+                  the differences between LiDAR and photogrammetry-derived
+                  models. These scans were produced using Polycam, but the
+                  workflow is largely the same between any of the cloud
+                  processing scanning applications.
+                </p>
+                <p>
+                  For producing the LiDAR-derived model, the camera was placed
+                  on a surface to elevate it from the countertop I was scanning
+                  it on. The app shows a wireframe projection when scanning in
+                  LiDAR capture mode, giving you an idea of what the scan will
+                  produce. This does not totally convey the final product, but
+                  it illustrates the concept of the scan itself. The application
+                  then requires you to physically move around the object. The
+                  camera measures the time it takes for light to reach the
+                  subject and then bounces back and uses this to estimate the
+                  distance of various points. The app then produces a raw LiDAR
+                  measurement of the object and the space around it. In the
+                  image, you will see several triangles floating in space in a
+                  circle. Each triangle represents an area in which a
+                  measurement was made. This is the final step that the user
+                  needs to complete before the data is sent to the application
+                  servers for processing. This raw LiDAR scan is uploaded and
+                  after a short wait (about 10 minutes in my experience) the
+                  finalized model is produced.
+                </p>
+                <p>
+                  <img src="https://imgur.com/okEoHGT" alt="Wireframe mesh of the camera">
+                </p>
+                <p>
+                  <img src="https://imgur.com/SBzfZes" alt="Raw LiDAR scan">
+                </p>
+                <p>
+                  The scans produced using LiDAR are certainly quick to create
+                  and the easier of the two methods. The models produced are not
+                  necessarily of the best quality. The hard edges are rounded,
+                  there are inaccurate protrusions, and the texture looks like
+                  it was wrapped over the object mesh, creating a flatter image.
+                  There are upsides to this technique though. These models are
+                  naturally made to scale. There’s no need for post-processing
+                  to change the scale. This means that when using object viewing
+                  programs you can take measurements of the object good enough
+                  for reference in the case of object housing, display
+                  fabrication, or shipping container design. Producing these
+                  models could be useful for internal reference so objects do
+                  not require frequent handling. These scans may be more
+                  appropriate for larger and less complicated objects that would
+                  be difficult to capture with photogrammetry. Large
+                  archaeological objects, sculptures, furniture, and vehicles
+                  are just some examples of objects this scan may be more
+                  appropriate for.
+                </p>
+                <p>
+                  <img src="https://imgur.com/Fgbke0b" alt="LiDAR derived scan with measurements">
+                </p>
+                <p>
+                  Creating models from a photogrammetry process was more
+                  time-consuming but ultimately produced a better result. The
+                  process started the same way as the LiDAR scan. The camera was
+                  placed on a surface to elevate it. Instead of walking around
+                  the camera and having my device automatically record the
+                  scans, I walked around the camera and manually took photos
+                  from the various angles in total I took 123 photos. These
+                  photos were taken from the lowest possible angle to get images
+                  underneath the overhangs. Many photos were also taken from a
+                  high angle to get several isometric perspectives of the
+                  entirety of the object. The photos were uploaded and began
+                  processing. For the photogrammetry process, the scans took
+                  longer to process, usually around 20-30 minutes. The final
+                  output was of a higher quality than the LiDAR scans. The
+                  surface texture was more accurately applied, edges and forms
+                  appear more accurate, and the areas of distress and damage on
+                  the object are more visible. This is a far more accurate
+                  process for a small and complex object like a camera.
+                </p>
+                <p>
+                  <img src="https://imgur.com/dOrfuyb" alt="User Interface of Polycam photogrammetry mode">
+                </p>
+                <p>
+                  Comparing these two processes illustrates a key discovery of
+                  this exploration. These processes are effective at
+                  accomplishing different objectives, and one is not inherently
+                  better than the other. LiDAR scans are quick but do not
+                  produce an incredible amount of detail on small complicated
+                  objects. Using these scans for large objects that would be
+                  difficult to produce with photogrammetry scanning can allow
+                  even the largest objects to be digitized. These scans can be
+                  used for smaller complex objects of course, but they may not
+                  be of a quality that the organization would want to release
+                  publicly. The fact that these models are produced already to
+                  scale means there’s potential for internal applications as
+                  well. Photogrammetry scanning is more time-consuming but
+                  ultimately does create much better scans. These scans may be
+                  more appropriate for public release.
+                </p>
+                <p>
+                  <img src="https://imgur.com/vq31xT5" alt="Photogrammetry derived image of the camera">
+                </p>
+                <p>
+                  The final important consideration for these processes is the
+                  ultimate quality of the scans themselves. Institutions
+                  exploring budget digitization objects should not expect scans
+                  that rival the detailed professional scans produced by large
+                  museums. The technology in our pockets cannot rival dedicated
+                  scanners and complex software that create these high-fidelity
+                  models. Organizations exploring these budget solutions should
+                  have discussions about the quality of scans they wish to
+                  achieve and what they would consider to be good enough quality
+                  for public release. Even if these processes are not employed
+                  by museums at this time, it is clearly worth following the
+                  innovations in this field. Five years ago, cloud computing
+                  photogrammetry scans derived from cellphone photos was
+                  something I would have never expected. As consumer technology
+                  continues to see innovation, we can expect to see further
+                  democratization of 3D scanning technology.
+                </p>
+                <p>
+                  <img src="https://imgur.com/l4Hms4m" alt="GIF of the various views of the 3D model created through Photogrammetry">
+                </p>
+
+                <div class="quire-page__content__references backmatter">
+                  <h2>Bibliography</h2>
+                  <ul>
+                    <li id="terms-of-service">
+                      “Terms of Service.” poly.cam, May 1, 2023.
+                      <a href="https://poly.cam/terms_and_conditions.pdf#page7" target="_blank">https://poly.cam/terms_and_conditions.pdf#page7</a>.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="quire-contents-buttons" data-outputs-exclude="epub,pdf">
+                <ul>
+                  <li class="quire-nav-button prev">
+                    <a href="/Museum-Digital-Practice-2023/essays/guarnieri/"><svg data-outputs-exclude="epub,pdf">
+                        <switch>
+                          <use xlink:href="#left-arrow-icon"></use>
+                        </switch>
+                      </svg>
+                      <span class="visually-hidden" data-outputs-exclude="epub,pdf">Go back a page</span>
+                      <span class="nav-title">Back</span></a>
+                    <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+                  </li>
+
+                  <li class="quire-nav-button next">
+                    <a href="/Museum-Digital-Practice-2023/essays/liu/"><span class="nav-title">Next</span>
+                      <svg data-outputs-exclude="epub,pdf">
+                        <switch>
+                          <use xlink:href="#right-arrow-icon"></use>
+                        </switch>
+                      </svg>
+                      <span class="visually-hidden" data-outputs-exclude="epub,pdf">Go back next page</span>
+                    </a>
+                    <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+        </main>
+      </div>
+      <template id="js-search-results-template">
+        <li class="quire-search__inner__list-item">
+          <a class="js-search-results-item" href="."><h2 class="title">
+              <span class="js-search-results-item-title"></span>
+            </h2>
+          </a>
+          <p>
+            <span class="js-search-results-item-type"></span> |
+            <span class="js-search-results-item-length"></span> words
+          </p>
+        </li>
+      </template>
+
+      <div aria-expanded="false" class="quire-search" data-search-index="https://gwu-museum-studies.github.io/Museum-Digital-Practice-2023/search-index.json" id="js-search">
+        <div class="quire-search__close-button">
+          <button class="button is-medium" onclick="toggleSearch()">
+            <svg data-outputs-exclude="epub,pdf">
+              <switch>
+                <use xlink:href="#close-icon"></use>
+              </switch>
+            </svg>
+            <span class="visually-hidden" data-outputs-exclude="epub,pdf">Close search window</span>
+          </button>
+        </div>
+        <div aria-label="search results" class="quire-search__inner">
+          <section class="hero">
+            <div class="hero-body">
+              <div class="container">
+                <div class="input-bar">
+                  <input class="input is-large" id="js-search-input" name="search" oninput="search()" placeholder="Search this publication" type="search" value="">
+                  <span><svg data-outputs-exclude="epub,pdf">
+                      <switch><use xlink:href="#search-icon"></use></switch>
+                    </svg>
+                    <span class="visually-hidden" data-outputs-exclude="epub,pdf">Search</span>
+                  </span>
+                </div>
+                <ul class="quire-search__inner__list" id="js-search-results-list">
+                  <!-- js-search-results-template -->
+                </ul>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+    
+  
+
+</body></html>
