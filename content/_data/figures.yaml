@@ -133,7 +133,7 @@ figure_list:
     alt: 
   - id: fig-golanmiller-05
     src: figures/fig-golanmiller-05.jpg
-    caption: "The Press page on the Collection website"
+    caption: "Figure 5: The Press page on the Collection website"
     alt: 
   - id: fig-mehnert-01
     poster: figures/fig-mehnert-01.jpg
