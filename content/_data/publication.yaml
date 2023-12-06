@@ -91,15 +91,6 @@ contributor:
     bio: "Kathleen Lauer is a second-year Museum Studies graduate student with a concentration in Collections Management at George Washington University. She received her B.A. in Classics with a minor in Chemistry at the College of William and Mary in 2019. She has worked with collections at the Museum of the Shenandoah Valley, Colonial Williamsburg, and the Arlington Historical Museum. She currently works as a tour guide at the U.S. Capitol Visitors Center. She is passionate about increasing accessibility in museums and creating a more inclusive environment for all. Connect via email: klauer@gwu.edu or [Linkedin](https://www.linkedin.com/in/kathleen-lauer/)"
     url:
     image: contributors/klauer.jpg
-  - id: xliu
-    type: primary
-    first_name: Xuexin
-    last_name: Liu
-    title:
-    affiliation: George Washington University
-    bio: 
-    url:
-    image: contributors/
   - id: emeverden
     type: primary
     first_name: Emma
