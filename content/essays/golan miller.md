@@ -79,7 +79,7 @@ With that in mind, I will list some ideas, to align with the purpose that I thin
 
 - Find different ways to update the press/media materials, and of course, add the latest and access them with digital innovation, such as video and audio. For example, adding the audio for the last article written about the collection in *Jerusalem Post*. ({% cite 'Lenkinski 2022' %}) Furthermore, concerning publication - Adding *YouTube* files of documented conferences, that we took part in, and lectures. For example: the last one that was held was in Jerusalem at the big auditorium of *Mishkent Shaananim* with scholars (2021). ({% cite ' Opening 2022' %}) 
 
-A good example of inspiration can be found in the interactive and designed media section, on the *Zabloduwich art collection* website – a private art space in London, owned by the collectors Anita and Poju Zabludowicz. ({% cite 'Zabludowich collection' %})
+A good example of inspiration can be found in the interactive and designed media section, on the *Zabloduwicz art collection* website – a private art space in London, owned by the collectors Anita and Poju Zabludowicz. ({% cite 'Zabludowicz collection' %})
 
 - Adding social media activities, which connect directly with the website content. [There is a *Facebook* page for the collection](https://www.facebook.com/100048821533340/photos/), but it's not active.
 
