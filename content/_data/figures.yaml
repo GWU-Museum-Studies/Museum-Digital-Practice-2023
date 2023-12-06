@@ -154,3 +154,23 @@ figure_list:
     src: figures/fig-broude-03.png
     caption: "The game's introduction and accompanying poem."
     alt: "Green text on a black background that reads “THERE ARE DOORS IN DOORS/ AND THERE ARE TRAPDOORS/ THERE ARE DOORS THAT OPEN THEMSELVES/ THERE ARE SLIDING DOORS AND SECRET DOORS/ THERE ARE DOORS THAT LET YOU IN AND OUT/ BUT NEVER OPEN/ AND THERE ARE TRAPDOORS/ THAT YOU CAN'T COME BACK FROM/ KID A MNESIA EXHIBITION/ THIS IS NOT A GAME/ TAKE YOUR TIME/ YOU ARE AT THE BEGINNING/ SO THERE MUST BE AN END/ SOME PLACES WILL MAKE SENSE/ SOME WILL NEVER MAKE SENSE/ SEE YOU LATER”"
+  - id: fig-loy-01
+    src: figures/fig-loy-01.jpg
+    alt: "Image of an antique camera with a wireframe mesh projected onto it."
+    caption: "Wireframe mesh of the camera." 
+  - id: fig-loy-02
+    src: figures/fig-loy-02.jpg
+    alt: "Image depicting the raw LiDAR scan of the object scanned and surrounding space."
+    caption: "Raw LiDAR scan"
+  - id: fig-loy-03
+    src: figures/fig-loy-03.jpg
+    alt: "Image of the LiDAR derived scan with overlay illustrating measurements to scale." 
+    caption: "LiDAR derived scan with measurements."
+  - id: fig-loy-04
+    src: figures/fig-loy-04.jpg
+    alt: "Image of the user interface of the Polycam app while taking a photo of the camera."
+    caption: "User interface of Polycam user interface mode."
+  - id: fig-loy-05
+    src: figures/fig-loy-05.jpg
+    alt: "Image of the photogrammetry derived model of the camera."
+    caption: "Photogrammetry derived image of the camera."

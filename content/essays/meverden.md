@@ -12,7 +12,7 @@ Today, artificial intelligence (AI) is everywhere. With the creation of *Siri*, 
 
 Consider this trial session with ChatGPT 3.5, for example, in helping me brainstorm topic ideas for “Museums and Technology.” Within my search, I received insight on 18 different topics, ranging from virtual reality (VR) to QR codes, covering several topics we have discussed in class. (Disclaimer: The following questions have been edited to fit a website-friendly format, and I provided five of ChatGPT’s replies verbatim). 
 
->Emma Meverden (CFM): ChatGPT, help me brainstorm project ideas for museums and technology. 
+>Emma Meverden: ChatGPT, help me brainstorm project ideas for museums and technology. 
 
 >ChatGPT: Certainly! Here are some project ideas that combine museums and technology:
 >1.	Augmented Reality (AR) Exhibits: Develop AR applications that visitors can use on their smartphones or AR glasses to enhance their museum experience. For example, visitors could point their devices at an exhibit, and AR could provide additional information, animations, or 3D models related to the artifact.
@@ -23,7 +23,7 @@ Consider this trial session with ChatGPT 3.5, for example, in helping me brainst
 
 In another session, I asked ChatGPT to craft a poem in the spirit of John F. Kennedy. Not only did the software mirror historical allusions to the late president, including his famous quote “Ask Not What Your Country Can Do For You,” but it also wrote rhyming structures and an original title. (Disclaimer: Like the previous example, I modified my question to mirror the language in a web post. However, I provided the poem that ChatGPT generated verbatim.) 
 
->CFM: ChatGPT, how would John F. Kennedy recite a poem? 
+>Emma Meverden: ChatGPT, how would John F. Kennedy recite a poem? 
 
 >ChatGPT: Sure, here's a poem in the style of John F. Kennedy: 
 
